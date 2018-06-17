@@ -1,3 +1,4 @@
+// e2e/app/app.po/ts
 import { browser, by, element } from 'protractor';
 
 export class AppPage {
